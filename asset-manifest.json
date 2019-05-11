@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wellnessapp/static/css/main.a5960bff.chunk.css",
-    "main.js": "/wellnessapp/static/js/main.75938bdb.chunk.js",
-    "main.js.map": "/wellnessapp/static/js/main.75938bdb.chunk.js.map",
-    "runtime~main.js": "/wellnessapp/static/js/runtime~main.acf0e5a3.js",
-    "runtime~main.js.map": "/wellnessapp/static/js/runtime~main.acf0e5a3.js.map",
-    "static/js/2.3310f33a.chunk.js": "/wellnessapp/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/wellnessapp/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/wellnessapp/index.html",
-    "precache-manifest.7b66ece59020c98226f3ccdd6ac558df.js": "/wellnessapp/precache-manifest.7b66ece59020c98226f3ccdd6ac558df.js",
-    "service-worker.js": "/wellnessapp/service-worker.js",
-    "static/css/main.a5960bff.chunk.css.map": "/wellnessapp/static/css/main.a5960bff.chunk.css.map"
+    "main.css": "/WellnessApp/static/css/main.a5960bff.chunk.css",
+    "main.js": "/WellnessApp/static/js/main.f8cbce9e.chunk.js",
+    "main.js.map": "/WellnessApp/static/js/main.f8cbce9e.chunk.js.map",
+    "runtime~main.js": "/WellnessApp/static/js/runtime~main.830a4b19.js",
+    "runtime~main.js.map": "/WellnessApp/static/js/runtime~main.830a4b19.js.map",
+    "static/js/2.3310f33a.chunk.js": "/WellnessApp/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/WellnessApp/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/WellnessApp/index.html",
+    "precache-manifest.033ba3ec7723bd729efd2da79e189098.js": "/WellnessApp/precache-manifest.033ba3ec7723bd729efd2da79e189098.js",
+    "service-worker.js": "/WellnessApp/service-worker.js",
+    "static/css/main.a5960bff.chunk.css.map": "/WellnessApp/static/css/main.a5960bff.chunk.css.map"
   }
 }
