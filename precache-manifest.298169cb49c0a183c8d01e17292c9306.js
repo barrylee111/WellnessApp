@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a4cac552238262eb3ccdf327d8fcdcc",
+    "revision": "c1330ca574beef7bb53e2f841c188eb0",
     "url": "/wellnessapp/index.html"
   },
   {
-    "revision": "00ca24f476720803773a",
-    "url": "/wellnessapp/static/css/main.2cce8147.chunk.css"
+    "revision": "fbdf3c8448fd73764ff0",
+    "url": "/wellnessapp/static/css/main.a5960bff.chunk.css"
   },
   {
-    "revision": "2e0129063922e3bb197a",
-    "url": "/wellnessapp/static/js/2.b41502e9.chunk.js"
+    "revision": "2315f74ce3c99316133d",
+    "url": "/wellnessapp/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "00ca24f476720803773a",
-    "url": "/wellnessapp/static/js/main.938b7408.chunk.js"
+    "revision": "fbdf3c8448fd73764ff0",
+    "url": "/wellnessapp/static/js/main.bfac8741.chunk.js"
   },
   {
     "revision": "421d6621edb2d3fa35ac",
