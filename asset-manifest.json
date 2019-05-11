@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wellnessapp/static/css/main.2cce8147.chunk.css",
+    "main.js": "/wellnessapp/static/js/main.938b7408.chunk.js",
+    "main.js.map": "/wellnessapp/static/js/main.938b7408.chunk.js.map",
+    "runtime~main.js": "/wellnessapp/static/js/runtime~main.acf0e5a3.js",
+    "runtime~main.js.map": "/wellnessapp/static/js/runtime~main.acf0e5a3.js.map",
+    "static/js/2.b41502e9.chunk.js": "/wellnessapp/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/wellnessapp/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/wellnessapp/index.html",
+    "precache-manifest.e6869cacfd0898d1dacab11869f4cef6.js": "/wellnessapp/precache-manifest.e6869cacfd0898d1dacab11869f4cef6.js",
+    "service-worker.js": "/wellnessapp/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/wellnessapp/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/wellnessapp/static/media/logo.5d5d9eef.svg"
+  }
+}
